@@ -1,1 +1,1 @@
-Netflix clone in angular. Implements google auth and api calls
+Netflix clone in angular. Implements google auth, tailwind css, and API call to tmdb
